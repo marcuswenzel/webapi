@@ -1,0 +1,11 @@
+C:\Users\Vinicius\source\repos\FPWEB\FPWEB.API\obj\Debug\netcoreapp2.1\FPWEB.API.csprojAssemblyReference.cache
+C:\Users\Vinicius\source\repos\FPWEB\FPWEB.API\obj\Debug\netcoreapp2.1\FPWEB.API.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\FPWEB\FPWEB.API\obj\Debug\netcoreapp2.1\FPWEB.API.AssemblyInfoInputs.cache
+C:\Users\Vinicius\source\repos\FPWEB\FPWEB.API\obj\Debug\netcoreapp2.1\FPWEB.API.AssemblyInfo.cs
+C:\Users\Vinicius\source\repos\FPWEB\FPWEB.API\bin\Debug\netcoreapp2.1\FPWEB.API.deps.json
+C:\Users\Vinicius\source\repos\FPWEB\FPWEB.API\bin\Debug\netcoreapp2.1\FPWEB.API.runtimeconfig.json
+C:\Users\Vinicius\source\repos\FPWEB\FPWEB.API\bin\Debug\netcoreapp2.1\FPWEB.API.runtimeconfig.dev.json
+C:\Users\Vinicius\source\repos\FPWEB\FPWEB.API\bin\Debug\netcoreapp2.1\FPWEB.API.dll
+C:\Users\Vinicius\source\repos\FPWEB\FPWEB.API\bin\Debug\netcoreapp2.1\FPWEB.API.pdb
+C:\Users\Vinicius\source\repos\FPWEB\FPWEB.API\obj\Debug\netcoreapp2.1\FPWEB.API.dll
+C:\Users\Vinicius\source\repos\FPWEB\FPWEB.API\obj\Debug\netcoreapp2.1\FPWEB.API.pdb
